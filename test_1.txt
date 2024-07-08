@@ -1,0 +1,18 @@
+Round 1 Debate Pairings:
+Affirmative		Negative
+RUSUMO		Glory
+FAWE		KAGARAMA
+GREEN HILLS		CSA
+
+Round 2 Debate Pairings:
+Affirmative		Negative
+KAGARAMA		GREEN HILLS
+CSA		RUSUMO
+Glory		FAWE
+
+Round 3 Debate Pairings:
+Affirmative		Negative
+GREEN HILLS		FAWE
+RUSUMO		KAGARAMA
+Glory		CSA
+
